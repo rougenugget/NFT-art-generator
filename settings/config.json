@@ -1,13 +1,12 @@
 {
     "layers": [
         "Backgrounds",
-        "Face",
-        "Hats and Hair",
-        "Eyes and Glasses",
-        "Nose",
-        "Mouth"
+        "Whelps",
+       
+        
+    
     ],
-    "image_description": "Open Punks",
+    "image_description": "Whelps of the west",
     "image_count": 25,
     "image_details": {
         "width": 512,
